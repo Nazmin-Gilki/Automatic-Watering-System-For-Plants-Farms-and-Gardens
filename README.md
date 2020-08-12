@@ -60,7 +60,7 @@ Thereby, reducing wastage of water . It will help us to move in the right direct
  11. Buzzer             
      :- It is used to alert about water level in the tank to owner or user of the system.<br />
      
- 
+ <br />
 ## Software Requirements 
   
 
@@ -69,11 +69,13 @@ Thereby, reducing wastage of water . It will help us to move in the right direct
      
  2. Software            
      :- Arduino Software<br />
+     
+<br />
 
 ## Workflows
 
 <br /> 
-<br />
+
 
 Because of the busy schedule people cant take care of their plants, gardens which causes their insufficient growth and death.Proposed system provides water supply to the plants, farms and gardens whenever needed without human interaction. Which reduces wastage of the water and to grow plants, farms, and gardens. This is the small investment for a better and greener environment in upcoming future!<br /> 
 
