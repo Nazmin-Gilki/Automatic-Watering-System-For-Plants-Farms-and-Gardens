@@ -25,7 +25,7 @@ This is the small investment for a better and greener environment in upcoming fu
 # Requirement Specifications
 
 
-## Hardware Requirements
+<br /> ## Hardware Requirements
 
 <br />
 
@@ -61,7 +61,7 @@ This is the small investment for a better and greener environment in upcoming fu
      :- It is used to alert about water level in the tank to owner or user of the system.<br />
      
  
-## Software Requirements 
+<br /> ## Software Requirements 
  
  1. Operating system    
      :- Windows 10 or any Os, also can be used without computer.<br />
