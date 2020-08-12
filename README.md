@@ -55,8 +55,10 @@ This is the small investment for a better and greener environment in upcoming fu
      
  9. Wires                
      :- These are used to connect Water Motor to 12V Battery and Buzzer to 5V Battery.<br />
+     
  10. Aluminium Foil Paper 
      :- It will allow the wires to pass the power supply in the water without any harm by wraping them on the wires.<br />
+     
  11. Buzzer             
      :- It is used to alert about water level in the tank to owner or user of the system.<br />
      
@@ -67,5 +69,6 @@ This is the small investment for a better and greener environment in upcoming fu
 
  1. Operating system    
      :- Windows 10 or any Os, also can be used without computer.<br />
+     
  2. Software            
      :- Arduino Software<br />
