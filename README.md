@@ -24,8 +24,6 @@ This is the small investment for a better and greener environment in upcoming fu
 
 # Requirement Specifications 
 
-<br /> 
-
 
 ## Hardware Requirements
 
