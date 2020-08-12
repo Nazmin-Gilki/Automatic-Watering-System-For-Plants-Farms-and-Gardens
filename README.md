@@ -68,5 +68,6 @@ This is the small investment for a better and greener environment in upcoming fu
  
  1. Operating system    
      - Windows 10 or any Os, also can be used without computer.
+     <br />
  2. Software            
      - Arduino Software
