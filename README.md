@@ -76,7 +76,8 @@ Thereby, reducing wastage of water . It will help us to move in the right direct
 
 <br /> 
 
-Because of the busy schedule people cant take care of their plants, gardens which causes their insufficient growth and death.Proposed system provides water supply to the plants, farms and gardens whenever needed without human interaction. Which reduces wastage of the water and to grow plants, farms, and gardens.*To know more about how syatem works try watching our demo video, provided above.* This is the small investment for a better and greener environment in upcoming future!
+Because of the busy schedule people cant take care of their plants, gardens which causes their insufficient growth and death.Proposed system provides water supply to the plants, farms and gardens whenever needed without human interaction. Which reduces wastage of the water and to grow plants, farms, and gardens. This is the small investment for a better and greener environment in upcoming future!<br /> 
 
+**To know more about how syatem works try watching our demo video, provided above.**
 
 Thanks for reading!
