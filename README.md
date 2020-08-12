@@ -22,10 +22,10 @@ This is the small investment for a better and greener environment in upcoming fu
 
 <br />
 
-# Requirement Specifications
+# Requirement Specifications <br /> 
 
 
-<br /> ## Hardware Requirements
+## Hardware Requirements
 
 <br />
 
