@@ -29,15 +29,20 @@ This is the small investment for a better and greener environment in upcoming fu
 
 <br />
 
- 1. Laptop or computer   :- For creating program using Arduino software.<br /> 
+ 1. Laptop or computer   
+ :- For creating program using Arduino software.<br /> 
  
- 2. Arduino UNO board    :- It is an interface between *Hardware Components* and *Arduino program*.<br />
+ 2. Arduino UNO board    
+ :- It is an interface between *Hardware Components* and *Arduino program*.<br />
  
- 3. Connector            :- This is used to connect the Arduino board to the laptop or computer system for uploading program on it.<br />
+ 3. Connector            
+ :- This is used to connect the Arduino board to the laptop or computer system for uploading program on it.<br />
  
- 4. Soil Moisture Sensor :- It senses the soils moisture and sends it to Arduino board or program on it.<br />
+ 4. Soil Moisture Sensor 
+ :- It senses the soils moisture and sends it to Arduino board or program on it.<br />
  
- 5. 12V Battery          :- It is used to provide the power supply to arduino UNO board and Water motor.<br />
+ 5. 12V Battery          
+ :- It is used to provide the power supply to arduino UNO board and Water motor.<br />
  
  6. 5V Relay             
      :- It acts as a separator of power supply, as it *provides 12V power supply to Water motor and 5V power supply to Soil Moisture Sensor.*<br />
