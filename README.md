@@ -18,7 +18,6 @@ Thereby, reducing wastage of water . It will help us to move in the right direct
   - The system must get off automatically when soil is wet *(i.e when sufficient water is supplied to plants).*
   - The *soil moisture senser* must sense the soils moisture for smooth work of system.
 
-This is the small investment for a better and greener environment in upcoming future!
 
 <br />
 
@@ -72,3 +71,11 @@ This is the small investment for a better and greener environment in upcoming fu
      
  2. Software            
      :- Arduino Software<br />
+
+## Workflows
+
+<br /> 
+Because of the busy schedule people cant take care of their plants, gardens which causes their insufficient growth and death.
+Proposed system provides water supply to the plants, farms and gardens whenever needed without human interaction. Which reduces wastage of the water and to grow plants, farms, and gardens. *To know more about how syatem works check demo video provided above.*
+This is the small investment for a better and greener environment in upcoming future!
+Thanks for reading!
