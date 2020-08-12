@@ -26,7 +26,6 @@ Thereby, reducing wastage of water . It will help us to move in the right direct
 
 ## Hardware Requirements
 
-<br />
 
  1. Laptop or computer   
  :- For creating program using Arduino software.<br /> 
@@ -63,8 +62,7 @@ Thereby, reducing wastage of water . It will help us to move in the right direct
      
  
 ## Software Requirements 
- 
-<br /> 
+  
 
  1. Operating system    
      :- Windows 10 or any Os, also can be used without computer.<br />
@@ -75,6 +73,7 @@ Thereby, reducing wastage of water . It will help us to move in the right direct
 ## Workflows
 
 <br /> 
+<br />
 
 Because of the busy schedule people cant take care of their plants, gardens which causes their insufficient growth and death.Proposed system provides water supply to the plants, farms and gardens whenever needed without human interaction. Which reduces wastage of the water and to grow plants, farms, and gardens. This is the small investment for a better and greener environment in upcoming future!<br /> 
 
